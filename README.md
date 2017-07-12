@@ -7,22 +7,15 @@ TensorFlow
 
 - 1. [x] python3.5
 
-- [x] 1.2.0-rc0
-
-- 1. [x] python2.7
-
-- [x] 1.2.0-rc1
-
-- 1. [x] python2.7
-
-- [x] 1.2.0-rc2
-
 - 1. [x] python2.7
 
 - [x] 1.2.0
 
 - 1. [x] python2.7
-- 2. [ ] python3.6 (Building)
+
+- [x] 1.2.1
+
+- 1. [x] python2.7
 
 compile instructions:
 ```bash
@@ -32,4 +25,3 @@ bazel build -c opt --copt=-mavx --copt=-mavx2 --copt=-msse4.2 --copt=-msse4.1 --
 bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
 
 ```
-<https://ctmakro.github.io/site/on_learning/tf1c.html>
