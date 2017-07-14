@@ -28,6 +28,6 @@ bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
 installation instruction:
 ```bash
 
-pip install tensorflow-1.2.1-cp27-cp27m-macosx_10_12_x86_64.whl --upgrade
+pip install /tmp/tensorflow_pkg/tensorflow-1.2.1-cp27-cp27m-macosx_10_12_x86_64.whl --upgrade
 
 ```
