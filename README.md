@@ -7,7 +7,7 @@ TensorFlow
 
 - 1. [x] python3.5
 
-- 1. [x] python2.7
+- 2. [x] python2.7
 
 - [x] 1.2.0
 
