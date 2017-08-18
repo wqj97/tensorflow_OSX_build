@@ -21,6 +21,10 @@ TensorFlow
 
 - 1. [x] python2.7
 
+- [x] 1.3.0
+
+- 1. [x] python2.7
+
 compile instructions:
 ```bash
 
