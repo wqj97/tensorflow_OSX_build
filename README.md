@@ -3,12 +3,6 @@ TensorFlow whl custom build for OSX with SSE3 4.1 4.2 AVX AVX2 FMA support
 
 TensorFlow
 
-- [x] 1.1.0-rc
-
-- 1. [x] python3.5
-
-- 2. [x] python2.7
-
 - [x] 1.2.0
 
 - 1. [x] python2.7
@@ -17,11 +11,11 @@ TensorFlow
 
 - 1. [x] python2.7
 
-- [x] 1.3.0rc2
+- [x] 1.3.0
 
 - 1. [x] python2.7
 
-- [x] 1.3.0
+- [x] 1.4.0
 
 - 1. [x] python2.7
 
